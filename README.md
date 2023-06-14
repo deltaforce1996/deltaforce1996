@@ -147,6 +147,8 @@
 ## ☎️ Content 
   
  [![Gmail Badge](https://img.shields.io/badge/-deltaforce19436@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:deltaforce19436@gmail.com)&nbsp;
+  
+  [![Discord Badge]()]
  
 
 
