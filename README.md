@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm full stack developer</h1>
+<h1 align="center">Hi 👋, I'm  developer  </h1>
 
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DF72B&width=435&lines=I+'m+%22Jakkrit+Bobtong%22%2C+Nickname+%22Alif%22.;I+'m+full+stack+developer.;Always+learning+new+things.)](https://git.io/typing-svg)
@@ -9,7 +9,7 @@
 
 
 
-## About <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## 🔥 About
 
 
 - 2014-2018 :school: I am a `Junior` at `Faculty of Sciences and Industrial Technology` major `Infomation Technology` at [Price Of Songkla University Suratthani Campus](http://www.surat.psu.ac.th/th/intro/)
@@ -19,7 +19,7 @@
 
 
 
-## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
+## 🛠️ Skills
 
 <h4> Languages </h4>
 
@@ -144,7 +144,7 @@
   </span>
 
     
-##  Experience<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
+## 💾 Experience
 
 
 
