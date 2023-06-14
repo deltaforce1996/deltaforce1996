@@ -1,15 +1,20 @@
 <h1 align="center">Hi 👋, I'm full stack developer</h1>
 
-I am Jakkrit Bobtong. Nickname Alif,I graduated with a bachelor's information technology from [Price Of Songkla University Surratthai Campus](https://www.surat.psu.ac.th/th/). I am interesting about developers. 
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=1DF72B&width=435&lines=I+'m+%22Jakkrit+Bobtong%22%2C+Nickname+%22Alif%22.;I+'m+full+stack+developer.;Always+learning+new+things.)](https://git.io/typing-svg)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deltaforce1996" alt="HridoyHazard" /> </p>
 
 
 
+## About <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
 
+- 2014-2018 :school: I am a `Junior` at `Faculty of Sciences and Industrial Technology` major `Infomation Technology` at [Price Of Songkla University Suratthani Campus](http://www.surat.psu.ac.th/th/intro/)
 
-
+- 2018-Currently :computer: I'm `programmer` at `Gamespace Laser Battle` `Motion X Studio`
 
 
 
