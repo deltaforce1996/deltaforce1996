@@ -4,19 +4,15 @@ I am Jakkrit Bobtong. Nickname Alif,I graduated with a bachelor's information te
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deltaforce1996" alt="HridoyHazard" /> </p>
 
-- 🌱 I’m currently learning ** Mern Stack, REST API, and MongoDB **
-
-- 👯 I’m looking to collaborate on Web Development Related Projects **
-
-- 🤔 I’m looking for help with Mern **
-
-- 🥅 2021 Goals: To be profficient in MERN Stack :|
-
-- ⚡ Fun fact: I love taking photos, playing video games.
 
 
 
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+
+
+
+
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
@@ -143,25 +139,7 @@ I am Jakkrit Bobtong. Nickname Alif,I graduated with a bachelor's information te
   </span>
 
     
+##  Experience<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 
-## 😂 Here is a random joke that'll make you laugh!
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
 
-## Connect with me <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">
-
-<a href="https://fb.com/hridoy.the.hazard10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hridoy.the.hazard10" height="30" width="40" /></a>
-
-<a href="https://instagram.com/hridoyalhazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hridoyalhazard" height="30" width="40" /></a>
-
-<a href="https://github.com/HridoyHazard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="HridoyHazard" height="30" width="40" /></a>
-
-    
-
-<br>
-
------
-
-Credits: [Hridoy Hazard](https://github.com/HridoyHazard)
-
-Last Edited on: 06/12/2021
