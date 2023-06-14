@@ -148,7 +148,7 @@
   
  [![Gmail Badge](https://img.shields.io/badge/-deltaforce19436@gmail.com-red?style=flat-square&logo=Gmail&logoColor=white)](mailto:deltaforce19436@gmail.com)&nbsp;
   
-  [![Discord Badge]()]
+ [![discord](https://img.shields.io/badge/contact-me-blue?logo=discord&logoColor=white)](https://discordapp.com/alif.jb)
  
 
 
