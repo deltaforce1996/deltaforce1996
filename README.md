@@ -10,7 +10,7 @@
 
 - 2018-Currently :computer: I'm `programmer` at `Gamespace Laser Battle` `Motion X Studio`
 
-## 🛠️ Skills
+## 🛠️ Experience
 
 <h4> Languages </h4>
 <span> 
